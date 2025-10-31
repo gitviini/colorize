@@ -1,25 +1,31 @@
 <div align="center">
 
-  ![Example image](./image.png)
+![Example image](./image.png)
 
   <p>
-    Colorize
+    <b>Colorize</b>
 
-    ![starts](https://img.shields.io/github/stars/gitviini/colorize)
-    ![c_version](https://img.shields.io/badge/c-17%2B-brightgreen)
+![starts](https://img.shields.io/github/stars/gitviini/colorize)
+![c_version](https://img.shields.io/badge/c-17%2B-brightgreen)
 
   </p>
 </div>
 
 by: [gitviini](https://github.com/gitviini)
 
-## Descrição
+## :bookmark: Descrição
 
 App CLI para impressão de texto em caixa alta.
 OBS: Sem 'ç' e caracteres especiais.
 
-## Como executar
+## :gear: Requerimentos
+
+- Compilador para c (gcc e etc)
+
+## :bug: Como executar
 
 ```shell
+git clone https://github.com/gitviini/colorize
+cd colorize
 gcc example.c colorize.c -o colorize && ./colorize
 ```
