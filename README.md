@@ -3,7 +3,7 @@
   ![Example image](./image.png)
 
   <p>
-    <b> Colorize <b>
+    <b> Colorize </b>
   </p>
 </div>
 
