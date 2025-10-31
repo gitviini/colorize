@@ -29,3 +29,22 @@ git clone https://github.com/gitviini/colorize
 cd colorize
 gcc example.c colorize.c -o colorize && ./colorize
 ```
+
+## :exploding_head: Como usar no próprio código
+
+```c
+...
+
+// incluindo cabeçalho do módulo colorize
+#include "colorize.h"
+
+...
+
+int main(){
+
+  // recebe uma string e imprime no formato do colorize
+  colorize("<string>");
+
+  return 0;
+}
+```
