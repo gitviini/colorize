@@ -15,7 +15,7 @@ by: [gitviini](https://github.com/gitviini)
 
 ## :bookmark: Descrição
 
-App CLI para impressão de texto em caixa alta.
+Lib escrita em c para impressão de texto em caixa alta.  <br />
 OBS: Sem 'ç' e caracteres especiais.
 
 ## :gear: Requerimentos
